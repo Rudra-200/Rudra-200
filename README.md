@@ -1,18 +1,57 @@
-# 💫 About Me:
-🤖 Can AI Unlock the Secrets of the Human Mind?<br><br>Artificial Intelligence is reshaping our world—but can it ever truly understand the human brain? Will it one day match human cognition, or remain a brilliant mirror—reflecting our thoughts without ever truly thinking? As an AI researcher, these are the questions that fuel my curiosity.<br><br>I’m Rudra Mishra, passionate about leveraging AI for societal good. As Vice Chairman of the IEEE Student Chapter at Sri Sri University, I lead initiatives in AI, Machine Learning, and Data Analytics, constantly exploring the edge of what technology can achieve.<br><br>🔍 Expertise & Certifications<br>Certified by AWS Academy, Google, and IBM, my skills span deep learning, neural networks, and responsible AI. Through my AICTE NEAT and IBM internships, I’ve applied AI to cloud computing, digital marketing, and data-driven decision-making.<br><br>🧠 Where AI Meets Neuroscience<br>One of my core research passions lies in brain-computer interfaces (BCIs) and decoding mental states from EEG data. My work includes:<br><br>EEG-based mental stress classification – Translating neural signals into measurable insights<br><br>Differential Privacy in Healthcare AI – Protecting patient data while improving predictive models<br><br>Neural Networks for Disease Detection – From Alzheimer’s prediction to AI-assisted diagnostics<br><br>🌍 AI for a Smarter, Sustainable Future<br>Beyond neuroscience, I’ve led impactful projects such as:<br><br>StormLens – AI-powered disaster classification for faster and more efficient relief operations<br><br>Eco-YATRA – Smart transport solutions to reduce carbon emissions and promote sustainability<br><br>💡 The Big Question<br>AI can analyze patterns, predict behaviors, and even simulate emotions—but does that mean it truly understands us? Could it ever think independently, or will it remain humanity’s most powerful tool—our digital shadow?<br><br>I invite you to join me in exploring this frontier—discussing, debating, and innovating where AI meets human potential. Let’s collaborate on building technology that empowers rather than replaces.<br><br>♟ Let’s connect—perhaps over a game of chess on Lichess: AlphaXman08 🐴
+# 💫 About Me  
+> *"Can AI Unlock the Secrets of the Human Mind?"*  
+Artificial Intelligence is transforming our world — but can it ever truly understand the human brain? Will it match human cognition, or remain a brilliant mirror, reflecting our thoughts without truly thinking?  
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-mishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishrarudra.work@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rudra-200&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rudra-200&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-200&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I’m **Rudra Mishra**, an **AI researcher** passionate about building technologies that empower humanity. As **Vice Chairman of the IEEE Student Chapter** at Sri Sri University, I lead projects in **AI, Machine Learning, and Data Analytics**, pushing the boundaries of innovation.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rudra-200&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Research Interests
+- **Brain-Computer Interfaces (BCI)** — decoding mental states from EEG & fNIRS  
+- **Healthcare AI** — Differential Privacy in predictive models, disease diagnostics  
+- **AI for Climate & Sustainability** — disaster damage classification, smart transport systems  
+
+---
+
+## 🚀 Featured Projects
+- **StormLens** 🌪 — AI-powered disaster classification & weather-based rescue insights  
+- **Eco-YATRA** 🚴 — Smart transport app to reduce carbon emissions & promote sustainability  
+- **EEG Stress Classification** 🧠 — Translating neural signals into mental state insights  
+- **Disease Detection Models** 🩺 — From Alzheimer’s prediction to cancer diagnostics  
+
+---
+
+## 📜 Certifications
+Certified by:  
+![AWS](https://img.shields.io/badge/AWS%20Academy-FF9900?logo=amazonaws&logoColor=white)  
+![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)  
+![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-052FAD?logo=ibm&logoColor=white)  
+
+---
+
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Rudra-200&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Rudra-200&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-200&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-mishra)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishrarudra.work@gmail.com)
+[![Lichess](https://img.shields.io/badge/Lichess-000000?logo=lichess&logoColor=white)](https://lichess.org/@/AlphaXman08)
+
+[![](https://visitcount.itsvg.in/api?id=Rudra-200&icon=0&color=1)](https://visitcount.itsvg.in)
